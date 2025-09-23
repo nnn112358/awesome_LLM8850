@@ -32,5 +32,5 @@
 
 
 * **ModuleLLM_MAniaX Ⅱ**
-  URL: [https://github.com/anoken/modulellm_maniax_2](https://github.com/anoken/modulellm_maniax_2)
-  概要: M5StackのModule-LLM（LLMモジュール）の同人誌
+  URL: [https://github.com/anoken/modulellm_maniax_2](https://github.com/anoken/modulellm_maniax_2)  
+  概要: M5StackのModule-LLM（LLMモジュール）の同人誌  
