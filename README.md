@@ -1,13 +1,18 @@
 ### M5Stack LLM8850
 - **URL**: https://docs.m5stack.com/ja/guide/ai_accelerator/llm-8850/m5_llm_8850_software_install
 
+
 ### AXCL開発ドキュメント
 - **URL**: https://axcl-docs.readthedocs.io/zh-cn/latest/doc_update_info.html
 - **説明**: AXCL（AI開発フレームワーク）の技術仕様書と更新情報
 
+https://github.com/orgs/AXERA-TECH/repositories
+
+https://huggingface.co/AXERA-TECH
+
+
 ### Radxa AICore AX-M1
  - https://docs.radxa.com/en/aicore/ax-m1
-
 
 ### Sipeed Maix4Hat
 - ** Wiki**: https://wiki.sipeed.com/hardware/en/maixIV/m4nhat/intro.html
