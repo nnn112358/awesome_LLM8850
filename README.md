@@ -29,3 +29,8 @@
 * **Pulsar2 ドキュメンテーション**  
   URL: [https://pulsar2-docs.readthedocs.io/zh-cn/latest/](https://pulsar2-docs.readthedocs.io/zh-cn/latest/)  
   概要: AXERA の “Pulsar2” モデル／プラットフォーム用のドキュメント。仕様、導入ガイド、サンプル、API 等を含む。
+
+
+* **ModuleLLM_MAniaX Ⅱ**
+  URL: [https://github.com/anoken/modulellm_maniax_2](https://github.com/anoken/modulellm_maniax_2)
+  概要: M5StackのModule-LLM（LLMモジュール）の同人誌
