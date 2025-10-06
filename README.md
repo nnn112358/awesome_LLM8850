@@ -1,5 +1,5 @@
 
-![GznhR6BaMAAG3Aj](https://github.com/user-attachments/assets/34aba0cf-14f3-4179-81d8-2d43ae7b4abc)
+<img width="1045" height="344" alt="image" src="https://github.com/user-attachments/assets/b431f755-a049-407e-a9b0-809188b7c3cd" />
 
 
 * **M5Stack LLM8850 ソフトウェア導入**  
