@@ -1,7 +1,7 @@
 
 <img width="522" height="172" alt="image" src="https://github.com/user-attachments/assets/1cfb4972-3de6-4b8d-ab37-207c40cfe7c3" />
 
-
+# LLM8850(AX8850N)
 * **M5Stack LLM8850 ソフトウェア導入**  
   URL: [https://docs.m5stack.com/ja/guide/ai_accelerator/llm-8850/m5_llm_8850_software_install](https://docs.m5stack.com/ja/guide/ai_accelerator/llm-8850/m5_llm_8850_software_install)  
   概要: M5Stack LLM-8850 のソフトウェア導入手順（Raspberry Pi 5 などでのドライバ導入・`axcl-smi` による確認方法）。
@@ -35,6 +35,10 @@
   概要: AXERA の “Pulsar2” モデル／プラットフォーム用のドキュメント。仕様、導入ガイド、サンプル、API 等を含む。
 
 
+* Raspberry PI PMIC Configration  
+[PMIC](https://x.com/HanxiaoM/status/1974075584172155090)  
+
+# Module-LLM(AX630C)
 * **ModuleLLM_MAniaX Ⅱ**
   URL: [https://github.com/anoken/modulellm_maniax_2](https://github.com/anoken/modulellm_maniax_2)  
   概要: M5StackのModule-LLM（LLMモジュール）の同人誌  
