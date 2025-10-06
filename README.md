@@ -1,5 +1,5 @@
 
-<img width="1045" height="344" alt="image" src="https://github.com/user-attachments/assets/b431f755-a049-407e-a9b0-809188b7c3cd" />
+<img width="522" height="172" alt="image" src="https://github.com/user-attachments/assets/1cfb4972-3de6-4b8d-ab37-207c40cfe7c3" />
 
 
 * **M5Stack LLM8850 ソフトウェア導入**  
