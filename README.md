@@ -42,7 +42,8 @@
 * **ModuleLLM_MAniaX Ⅱ**
   URL: [https://github.com/anoken/modulellm_maniax_2](https://github.com/anoken/modulellm_maniax_2)  
   概要: M5StackのModule-LLM（LLMモジュール）の同人誌  
-
+* **awesome_M5Stack_ModuleLLM**
+  URL: [https://github.com/nnn112358/awesome_M5Stack_ModuleLLM](https://github.com/nnn112358/awesome_M5Stack_ModuleLLM)
 
 # User
 ### 📘 M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた（LLM 編）
