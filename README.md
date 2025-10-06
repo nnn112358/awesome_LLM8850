@@ -1,3 +1,7 @@
+
+![GznhR6BaMAAG3Aj](https://github.com/user-attachments/assets/34aba0cf-14f3-4179-81d8-2d43ae7b4abc)
+
+
 * **M5Stack LLM8850 ソフトウェア導入**  
   URL: [https://docs.m5stack.com/ja/guide/ai_accelerator/llm-8850/m5_llm_8850_software_install](https://docs.m5stack.com/ja/guide/ai_accelerator/llm-8850/m5_llm_8850_software_install)  
   概要: M5Stack LLM-8850 のソフトウェア導入手順（Raspberry Pi 5 などでのドライバ導入・`axcl-smi` による確認方法）。
