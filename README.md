@@ -46,6 +46,8 @@
   URL: [https://github.com/nnn112358/awesome_M5Stack_ModuleLLM](https://github.com/nnn112358/awesome_M5Stack_ModuleLLM)
 
 # User
-### 📘 M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた（LLM 編）
-**URL:** [https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c](https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c)
+### 📘 M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた（LLM 編）  
+**URL:** [https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c](https://qiita.com/uzuki_aoba/items/78e1944b8ccb60107d5c)  
 
+### 📘M5Stack LLM8850 モジュールを Raspberry Pi 5 で動かしてみた(TTS編)  
+**URL:** [https://qiita.com/uzuki_aoba/items/e260dbc463c79d9d7184](https://qiita.com/uzuki_aoba/items/e260dbc463c79d9d7184)  
