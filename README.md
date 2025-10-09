@@ -18,6 +18,11 @@
   URL: [https://huggingface.co/AXERA-TECH](https://huggingface.co/AXERA-TECH)  
   概要: AXERA が提供する最適化済み AI モデル（Qwen、YOLO、Whisper など）。
 
+* **Pulsar2 ドキュメンテーション**  
+  URL: [https://pulsar2-docs.readthedocs.io/zh-cn/latest/](https://pulsar2-docs.readthedocs.io/zh-cn/latest/)  
+  概要: AXERA の “Pulsar2” モデル／プラットフォーム用のドキュメント。仕様、導入ガイド、サンプル、API 等を含む。
+
+# AX8850Nボード
 * **Radxa AICore AX-M1**  
   URL: [https://docs.radxa.com/en/aicore/ax-m1](https://docs.radxa.com/en/aicore/ax-m1)  
   概要: Radxa 社の AI アクセラレータカード（AXERA AX8850 搭載）。仕様・導入手順を解説。
@@ -30,9 +35,6 @@
   URL: [https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock/09_Image](https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock/09_Image)  
   概要: Maix4Hat/MaixIV 系統のシステムイメージ・ファームウェアのダウンロードページ。
 
-* **Pulsar2 ドキュメンテーション**  
-  URL: [https://pulsar2-docs.readthedocs.io/zh-cn/latest/](https://pulsar2-docs.readthedocs.io/zh-cn/latest/)  
-  概要: AXERA の “Pulsar2” モデル／プラットフォーム用のドキュメント。仕様、導入ガイド、サンプル、API 等を含む。
 
 
 * Raspberry PI PMIC Configration  
