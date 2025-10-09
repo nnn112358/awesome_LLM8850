@@ -35,10 +35,17 @@
   URL: [https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock/09_Image](https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock/09_Image)  
   概要: Maix4Hat/MaixIV 系統のシステムイメージ・ファームウェアのダウンロードページ。
 
-
-
+* **Sipeed Maix4-HAT – A Raspberry Pi 5 PCIe AI module with up to 72 TOPS AI power, 4K video output**
+ URL:[https://www.cnx-software.com/2025/08/11/sipeed-maix4-hat-a-raspberry-pi-5-pcie-ai-module-with-up-to-72-tops-ai-power-4k-video-output/](https://www.cnx-software.com/2025/08/11/sipeed-maix4-hat-a-raspberry-pi-5-pcie-ai-module-with-up-to-72-tops-ai-power-4k-video-output/)
+ 
 * Raspberry PI PMIC Configration  
 [PMIC](https://x.com/HanxiaoM/status/1974075584172155090)  
+
+# BenchMark
+* **M5Stack
+  URL: [https://github.com/m5stack/StackFlow/blob/axcl/benchmark/RESULTS.md](https://github.com/m5stack/StackFlow/blob/axcl/benchmark/RESULTS.md)
+
+
 
 # Module-LLM(AX630C)
 * **ModuleLLM_MAniaX Ⅱ**
